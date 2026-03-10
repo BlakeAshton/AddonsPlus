@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: |cff00ffffAddons|r |cffffffff+|r
+## Notes: Liquidate, Restore, Neural Questing, and Orbital Zoom.
+## Author: Gemini
+## Version: 2.1
+## SavedVariables: SynapseDB
+
+core.lua
